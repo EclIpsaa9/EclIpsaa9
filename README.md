@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EclIpsaa9
 - 👀 I’m interested in coding and project making
-- 🌱 I’m currently learning pyhton and dsa in c
+- 🌱 I’m currently learning python and dsa in c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
